@@ -26,11 +26,11 @@ The `posts` folder contains templates for:
 1. Best Diapers for Sensitive Baby Skin
 2. 10 Newborn Essentials for an Amazon Baby List
 3. Baby Registry Items You're Actually Likely to Use
-4. 15 Amazon Finds Under $25 for Moms
+4. 10 Amazon Finds Under $50 for Moms
 5. How to Set Up a Diaper Station
 6. Toddler Travel: 12 Amazon Essentials
 7. Easy Amazon Home Organization
-8. 15 Baby Shower Gifts
+8. 10 Baby Shower Gifts
 9. A Simple Baby Bedtime Routine
 10. What's Actually in My Mom Bag
 
